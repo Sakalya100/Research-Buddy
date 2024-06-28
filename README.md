@@ -8,7 +8,7 @@ Quickly finds latest research paper of user's chosen domain and generates summar
 ## Demo
 
 
-![Weekly Research Paper AI Summariser tool demo](assets/Demo.mp4)
+![Weekly Research Paper AI Summariser tool demo](assets/demo.gif)
 
   
 
